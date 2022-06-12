@@ -1,0 +1,11 @@
+D:\Repos\StudyTicketShower\StudyTicketShower\bin\Debug\StudyTicketShower.exe.config
+D:\Repos\StudyTicketShower\StudyTicketShower\bin\Debug\StudyTicketShower.exe
+D:\Repos\StudyTicketShower\StudyTicketShower\bin\Debug\StudyTicketShower.pdb
+D:\Repos\StudyTicketShower\StudyTicketShower\obj\Debug\StudyTicketShower.csproj.AssemblyReference.cache
+D:\Repos\StudyTicketShower\StudyTicketShower\obj\Debug\StudyTicketShower.csproj.SuggestedBindingRedirects.cache
+D:\Repos\StudyTicketShower\StudyTicketShower\obj\Debug\StudyTicketShower.Form1.resources
+D:\Repos\StudyTicketShower\StudyTicketShower\obj\Debug\StudyTicketShower.Properties.Resources.resources
+D:\Repos\StudyTicketShower\StudyTicketShower\obj\Debug\StudyTicketShower.csproj.GenerateResource.cache
+D:\Repos\StudyTicketShower\StudyTicketShower\obj\Debug\StudyTicketShower.csproj.CoreCompileInputs.cache
+D:\Repos\StudyTicketShower\StudyTicketShower\obj\Debug\StudyTicketShower.exe
+D:\Repos\StudyTicketShower\StudyTicketShower\obj\Debug\StudyTicketShower.pdb
