@@ -122,7 +122,8 @@ namespace StudyTicketShower
 
         private void showAnswerButton_Click(object sender, EventArgs e)
         {
-            answerLabel.Text = Curpair.Answer;
+            //answerLabel.Text = Curpair.Answer;
+            answerLabel.Text = Curpair.Answer.Replace("\t","       ");
             showAnswerButton.Enabled = false;
             PositiveButton.Enabled = NegativeButton.Enabled = true;
         }
@@ -137,6 +138,11 @@ namespace StudyTicketShower
         {
             negative.Add(Curpair);
             LoadPair();
+        }
+
+        private void answerLabel_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

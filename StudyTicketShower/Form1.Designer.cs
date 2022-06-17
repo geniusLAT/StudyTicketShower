@@ -39,9 +39,10 @@
             // questionLabel
             // 
             this.questionLabel.AutoSize = true;
+            this.questionLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.questionLabel.Location = new System.Drawing.Point(12, 39);
             this.questionLabel.Name = "questionLabel";
-            this.questionLabel.Size = new System.Drawing.Size(47, 13);
+            this.questionLabel.Size = new System.Drawing.Size(64, 18);
             this.questionLabel.TabIndex = 0;
             this.questionLabel.Text = "question";
             // 
@@ -53,6 +54,7 @@
             this.answerLabel.Size = new System.Drawing.Size(41, 13);
             this.answerLabel.TabIndex = 1;
             this.answerLabel.Text = "answer";
+            this.answerLabel.Click += new System.EventHandler(this.answerLabel_Click);
             // 
             // showAnswerButton
             // 
@@ -66,7 +68,7 @@
             // 
             // PositiveButton
             // 
-            this.PositiveButton.Location = new System.Drawing.Point(13, 415);
+            this.PositiveButton.Location = new System.Drawing.Point(176, 70);
             this.PositiveButton.Name = "PositiveButton";
             this.PositiveButton.Size = new System.Drawing.Size(191, 23);
             this.PositiveButton.TabIndex = 3;
@@ -76,7 +78,7 @@
             // 
             // NegativeButton
             // 
-            this.NegativeButton.Location = new System.Drawing.Point(210, 415);
+            this.NegativeButton.Location = new System.Drawing.Point(373, 70);
             this.NegativeButton.Name = "NegativeButton";
             this.NegativeButton.Size = new System.Drawing.Size(191, 23);
             this.NegativeButton.TabIndex = 4;
