@@ -12,3 +12,5 @@
 4. Нажмите "SHOW", если показанный ответ совпадает нажмите "Positive" иначе Negative.
 5. Повторяйте 2-4, пока не сможете ответить на все билеты.
 Билет в категории Negative будет показан вам повторно в следующем раунде.
+
+![ScreenShot](https://sun9-west.userapi.com/sun9-62/s/v1/ig2/Pre6RDwHgl-4j0o0kWvjCdk-Ci-EBDCUMwPR_TK4iQ7R-5aC7Wcd0VjqKOuXPe755jSdIOkZEExD4stniZ7XjBuF.jpg?size=960x1040&quality=96&type=album)
